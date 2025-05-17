@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'Bagel Fat One';
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+  src: url('https://cdn.jsdelivr.net/gh/fonts-archive/BagelFatOne/BagelFatOne-Regular.woff2') format('woff2'),
+      url('https://cdn.jsdelivr.net/gh/fonts-archive/BagelFatOne/BagelFatOne-Regular.woff') format('woff'),
+      url('https://cdn.jsdelivr.net/gh/fonts-archive/BagelFatOne/BagelFatOne-Regular.otf') format('opentype'),
+      url('https://cdn.jsdelivr.net/gh/fonts-archive/BagelFatOne/BagelFatOne-Regular.ttf') format('truetype');
+}
